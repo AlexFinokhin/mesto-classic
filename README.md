@@ -1,37 +1,29 @@
-# Место Россия
-![image](https://user-images.githubusercontent.com/101180377/193478988-f8324382-5688-469a-bf46-c4a0760e1e6d.png)
-Мой третий проект, который использует базовый функционал JS
-## Ссылка на github pages 
-https://alexfinokhin.github.io/Mesto-project/
-### Обзор
-### Базовые технологии, которые использовались в проекте: 
-1. БЭМ
-2. Nested
-3. Grid
-4. FlexBox
-### Применена адаптивная верстка для различных разрешений
-### Функционал JS: 
-1. Редактирование профиля(имя и профессия)
-2. Pакрытие попапа по нажатию ESC или нажатием мышки вне формы 
-3. Добавление новых карточек через форму
-4. Возможность ставить лайк карточке
-5. Возможность удалять карточку
-6. Присутствует валидация форм
+# **Cервис Mesto**
+> классическая версия на JS
 
-### Roadmap
-- [ ] Добавить возможность редактирования аватарки
-- [x] Добавить возможность редактирования карточек
-- [x] Создание новых карточек
-- [x] Возможность ставить лайки
-- [ ] Добавить бэкэнд:
-- [ ] Реализовать мультиязычность:
-    - [ ] Английский
-    - [ ] Китайский
- 
-Проект сделан по макетам из Figma
-* [Ссылка на макет в Figma](https://www.figma.com/file/2cn9N9jSkmxD84oJik7xL7/JavaScript.-Sprint-4?node-id=0%3A1)
-* [Ссылка на макет в Figma](https://www.figma.com/file/bjyvbKKJN2naO0ucURl2Z0/JavaScript.-Sprint-5)
-* [Ссылка на макет в Figma](https://www.figma.com/file/kRVLKwYG3d1HGLvh7JFWRT/JavaScript.-Sprint-6?node-id=0%3A1)
+Проектная работа по созданию интерактивного веб-сервиса, созданная в рамках прохождения 6го спринта курса Веб-разработчик в [Яндекс Практикум](https://practicum.yandex.ru "сервис онлайн-образования"). Сервис позволяет локально редактировать данные профиля, загружать собственные изображения, лайкать и удалять их.
 
+### **Версии проекта**
+***
+1. [Mesto (версия фронтенд + бэкенд)](https://github.com/alexfinokhin/react-mesto-api-full-gha)
+2. [Mesto (бэкенд)](https://github.com/alexfinokhin/express-mesto-gha)
+3. [Mesto (React, регистрация и авторизация)](https://github.com/alexfinokhin/react-mesto-auth)
+4. [Mesto (React)](https://github.com/alexfinokhin/mesto-react)
+5. [Mesto (версия classes)](https://github.com/alexfinokhin/mesto)
+6. Mesto (классическая версия на JS) :star: *этот репозиторий*
 
+### **Технологии**
+***
+* JavaScript
+  * Валидация форм
+* HTML5
+* CSS3
+  * Адаптивный пользовательский интерфейс
+  * Flexbox
+  * Grid Layout
+* БЭМ Nested
+* Accessibility
 
+***
+[Открыть сайт в браузере](https://alexfinokhin.github.io/mesto-classic/)\
+[Ссылка на макет в Figma](https://www.figma.com/file/2cn9N9jSkmxD84oJik7xL7/JavaScript.-Sprint-4?node-id=0%3A1)
