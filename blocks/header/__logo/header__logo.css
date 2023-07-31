@@ -1,0 +1,19 @@
+.header__logo {
+  width: calc((100vw - 320px) / (1280 - 320) * (142 - 103.7) + 103.7px);
+  padding-left: calc((100vw - 320px) / (1280 - 320) * (0 - 27) + 17px);
+  transition: opacity .2s linear;
+}
+
+.header__logo:hover {
+  opacity: .6;
+  cursor: pointer;
+}
+
+
+
+@media screen and (min-width: 1280px) {
+  .header__logo {
+    width: 142px;
+    padding-left: 0;
+  }
+}
